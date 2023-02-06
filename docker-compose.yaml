@@ -1,0 +1,11 @@
+version: '3.9'
+
+services:
+
+  pythonlab:
+    build: ./Docker
+    container_name: pythonlab
+    volumes:
+      - './Notebooks:/workspace'
+    ports:
+      - '8899:8899'
