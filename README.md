@@ -2,7 +2,7 @@
 
 - Data Analysis 
 
-- Machine learning modeling
+- Machine learning modelling
 
 - Dockerized environment
 
